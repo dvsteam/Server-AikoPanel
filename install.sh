@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export DVSapiHost="dvsteam.net" # Tên web đã mua key của AikoPanel
-export DVSapiKey="xxxxxxxx" # Key server trên web admin
+# export DVSapiHost="dvsteam.net" # Tên web đã mua key của AikoPanel
+# export DVSapiKey="xxxxxxxx" # Key server trên web admin
 # Mọi thoắc mắc liên hệ zalo 08353.15551 (Dev Sỹ)
 #----------------------------#
 DVS_install="https://github.com/dvsteam/Server-AikoPanel/raw/main/dvsteam.zip"
